@@ -5,8 +5,6 @@
   • Links dos projetos  → bloco "LINKS" no final do arquivo.
                           Quando a Trilha subir na Vercel, troque
                           só a linha [trilha-demo]: e pronto.
-  • Imagens / arte      → pasta /assets. Para trocar uma imagem,
-                          substitua o arquivo mantendo o mesmo nome.
   • Badges              → geradas em https://shields.io
 ═══════════════════════════════════════════════════════════════
 -->
@@ -114,16 +112,6 @@ Schema first, types end to end, and nothing reaches the UI that hasn't been vali
 
 ---
 
-## Experience
-
-**Revista Spelho** — Technical Support &amp; Media Intern · *Mar 2025 – Feb 2026*
-Automated the billing control spreadsheets, removing manual payment-status updates and cutting operational errors. Shipped front-end improvements to the company site and handled client support and digital channels.
-
-**Secretaria Escola Sarandi** — Media Assistant · *Jan 2024 – Feb 2025*
-Built a database-backed web system to manage the school office's records, replacing manual processes, plus an internal management module for the student union.
-
----
-
 ## Education &amp; certifications
 
 **BSc in Computer Science** — Atitus Educação, Passo Fundo/RS · 3rd semester, expected Dec 2028
@@ -131,18 +119,6 @@ Built a database-backed web system to manage the school office's records, replac
 **[AWS Academy Graduate — Cloud Foundations][aws-cert]** — Amazon Web Services, Jun 2026
 
 **Languages** — Portuguese (native) · Spanish (advanced) · English (intermediate)
-
----
-
-## `$ ./render --me`
-
-<p align="center">
-  <img src="assets/drawille-portrait.svg" alt="Braille-rendered portrait" width="860">
-</p>
-
-<p align="center">
-  <img src="assets/ascii-portrait.svg" alt="RGB ASCII portrait" width="840">
-</p>
 
 ---
 
