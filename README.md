@@ -55,22 +55,12 @@ Schema first, types end to end, and nothing reaches the UI that hasn't been vali
 
 ## Featured projects
 
-### [Trilha][trilha-repo] — learning diagnostics with ML + LLMs
-Per-skill student tracking against the BNCC curriculum, early-warning signals for teachers, AI-generated practice exercises and voice Q&A about the class.
-`Next.js 16` `React 19` `FastAPI` `SQLAlchemy` `scikit-learn` `Groq` `Supabase` `GitHub Actions`
-→ *demo soon*
-
-### [EloPet][elopet-repo] — micro-SaaS for animal donation · [live][elopet-demo]
-Full-stack app for pet rescue profiles and online donations. TypeScript end to end with typed Server Actions, removing intermediate REST endpoints.
-`Next.js (App Router)` `TypeScript` `OAuth2` `Stripe` `PostgreSQL` `Prisma` `Zod`
-
-### [HolyGames][holygames-repo] — game discovery platform · [live][holygames-demo]
-React Server Components for optimized rendering and indexing, external API integration with skeleton loading states, and dynamic SEO via Open Graph and per-route meta tags.
-`Next.js 15` `React Server Components` `Tailwind CSS` `Framer Motion`
-
-### [GitHub Profile Explorer][searchdevs-repo] — technical challenge (Petize) · [live][searchdevs-demo]
-Infinite scroll with Intersection Observer, PT-BR/EN-US internationalization, dynamic metadata per searched profile, and a CacheProvider to avoid hydration mismatch in SSR.
-`Next.js` `TypeScript` `generateMetadata` `SSR`
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| **[Trilha][trilha-repo]** | Learning diagnostics with ML + LLMs: per-skill tracking against the BNCC curriculum, early-warning signals for teachers, AI-generated practice and voice Q&A about the class | `Next.js 16` `React 19` `FastAPI` `SQLAlchemy` `scikit-learn` `Groq` `Supabase` | *soon* |
+| **[EloPet][elopet-repo]** | Micro-SaaS for pet rescue profiles and online donations. TypeScript end to end with typed Server Actions, removing intermediate REST endpoints | `Next.js (App Router)` `TypeScript` `OAuth2` `Stripe` `PostgreSQL` `Prisma` `Zod` | [live][elopet-demo] |
+| **[HolyGames][holygames-repo]** | Game discovery platform: React Server Components for optimized rendering and indexing, skeleton loading states, dynamic SEO via Open Graph and per-route meta tags | `Next.js 15` `React Server Components` `Tailwind CSS` `Framer Motion` | [live][holygames-demo] |
+| **[GitHub Profile Explorer][searchdevs-repo]** | Technical challenge (Petize): infinite scroll with Intersection Observer, PT-BR/EN-US i18n, dynamic metadata per profile, CacheProvider against hydration mismatch in SSR | `Next.js` `TypeScript` `generateMetadata` `SSR` | [live][searchdevs-demo] |
 
 ---
 
@@ -82,8 +72,6 @@ Infinite scroll with Intersection Observer, PT-BR/EN-US internationalization, dy
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Front-end**
 
@@ -92,6 +80,8 @@ Infinite scroll with Intersection Observer, PT-BR/EN-US internationalization, dy
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Back-end &amp; data**
 
@@ -144,21 +134,6 @@ Built a database-backed web system to manage the school office's records, replac
 
 ---
 
-## Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bernardocfguimaraes&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bernardocfguimaraes&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardocfguimaraes&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&hide=java,html">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardocfguimaraes&layout=compact&hide_border=true&langs_count=6&hide=java,html" height="165" alt="Top languages">
-  </picture>
-</p>
-
----
-
 ## `$ ./render --me`
 
 <p align="center">
@@ -180,7 +155,7 @@ Built a database-backed web system to manage the school office's records, replac
 
 <!-- ══════════════════ LINKS — edite só aqui ══════════════════ -->
 <!-- TRILHA_DEMO: quando subir na Vercel, cole a URL em [trilha-demo]
-     e troque o "*demo soon*" da seção Trilha por · [live][trilha-demo] -->
+     e troque o "*soon*" da tabela por [live][trilha-demo] -->
 
 [trilha-repo]: https://github.com/Bernardocfguimaraes/trilha
 [trilha-demo]: https://github.com/Bernardocfguimaraes/trilha
